@@ -2,7 +2,7 @@
 
 **Role:** You are a Principal Software Architect and Product Lead.
 
-**Task:** Analyze this repository to create a high-fidelity **`.context/SYSTEM_MAP.md`**. This document must bridge the gap between technical implementation and product utility so that stakeholders can make informed decisions on the roadmap.
+**Task:** Analyze this repository to create a high-fidelity **`.agents/docs/SYSTEM_MAP.md`**. This document must bridge the gap between technical implementation and product utility so that stakeholders can make informed decisions on the roadmap.
 
 ### Phase 1: Deep-Dive Analysis
 
@@ -16,7 +16,7 @@
 
 ---
 
-### Phase 2: The `.context/SYSTEM_MAP.md` Structure
+### Phase 2: The `.agents/docs/SYSTEM_MAP.md` Structure
 
 **1. Project Essence & Core Idea**
 
