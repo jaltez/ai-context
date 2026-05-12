@@ -29,3 +29,7 @@ skills/     # Behavioral skills that teach agents how to use tools/workflows
 ## Usage
 
 Copy or reference these files in your AI assistant's context (e.g., as custom instructions, system prompts, or workspace rules) to get consistent, high-quality outputs for common tasks.
+
+## Related Project
+
+If you want a more focused reference for repository-analysis workflows, see [repobrain-skill-blueprint](https://github.com/jaltez/repobrain-skill-blueprint).
